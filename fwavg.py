@@ -1,8 +1,8 @@
 def wavg(image_matrix):
     a = len(image_matrix)
     b = image_matrix.size/a/3
-    print(b)
-    print(a)
+    #print(b)
+    #print(a)
     xsum=0
     xisum=0
     yjsum=0
